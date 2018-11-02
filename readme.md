@@ -1,4 +1,4 @@
-# gi
+# Dependency Analyzer
 
 ### NodeJS implementation
 > nodeJS version: v10.
